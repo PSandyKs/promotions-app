@@ -2,7 +2,6 @@ public class HelloWorld {
     public static void main(String[] args) {
 	// print "hello world"
         System.out.println("Hello, World!");
-	//print "welcome to git" 
-	added error
+	//print "welcome to git"
     }
 }
